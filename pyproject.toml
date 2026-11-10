@@ -1,0 +1,19 @@
+[project]
+name = "ledger"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "lucreziacaleo6-droid", email = "lucreziacaleo6@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "rich>=15.0.0",
+]
+
+[project.scripts]
+ledger = "ledger:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
