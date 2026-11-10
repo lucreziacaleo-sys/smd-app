@@ -1,6 +1,6 @@
 # smd-app
 
-Personal finance ledger for the terminal.
+Personal finance ledger for the command line: balances, spending and monthly reports from a CSV file.
 
 ## Run it
 
@@ -16,4 +16,4 @@ Personal finance ledger for the terminal.
 
 ## Author
 
-<your-github-username>
+<lucreziacaleo-sys>
