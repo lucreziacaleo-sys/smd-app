@@ -1,6 +1,6 @@
 # smd-app
 
-Personal finance ledger for the command line.
+Personal finance ledger for the terminal.
 
 ## Run it
 
